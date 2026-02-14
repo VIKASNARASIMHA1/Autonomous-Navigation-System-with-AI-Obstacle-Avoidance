@@ -179,12 +179,6 @@ Episode 3: ⚠️ Collision at step 203
 
 ```
 autonomous-navigation/
-├── 📁 assets/                 # Demo images and GIFs
-├── 📁 docs/                   # Documentation
-├── 📁 models/                 # Saved model weights
-├── 📁 logs/                   # Training logs
-├── 📁 tests/                  # Unit tests
-│
 ├── 🐍 autonomous_navigation.py  # Main application
 ├── 📄 requirements.txt          # Dependencies
 ├── 📄 README.md                 # This file
